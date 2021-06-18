@@ -1,6 +1,5 @@
-.BoxContainer {
-    width: 200px;
-    height: 200px;
-    background-color: brown;
-    
+.Box {
+    height: 20em;
+    width: 20em;
 }
+  
